@@ -2,7 +2,7 @@
 Simplest meteor react app
 
 Clone
-`git clone git@github.com:hayk94/meteorReactBoilerplate.git`
+`$ git clone git@github.com:hayk94/meteorReactBoilerplate.git`
 
 Remove git
 `$ rm -rf .git`
